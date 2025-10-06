@@ -1,3 +1,6 @@
+'''
+ Esse é um exemplo de base para jogo em modo texto
+'''
 import os
 import WConio2
 
